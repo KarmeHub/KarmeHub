@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prashan Karmacharya.
 - 👀 I’m interested in Programming and Web Developing.
 - 🌱 I’m currently learning some new coding techniques.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: +17169946108
 
 <!---
